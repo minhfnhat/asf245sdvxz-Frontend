@@ -1,0 +1,79 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto",
+      "variables": {
+        "cta_text": "Explore Open Positions",
+        "description": "Join our music free team and unleash your creativity in the music industry with flexible work hours and competitive salaries.",
+        "image_alt_text": "Group of people working together"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Magic of Music-Free Calm and Focus",
+        "title": "Experience Sound Like Never Before with Loki"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Experience Sound Like Never Before with Loki",
+  "subtitle": "Unleash the Magic of Music-Free Calm and Focus"
+}
